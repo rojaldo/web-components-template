@@ -1,12 +1,9 @@
-Welcome to the Glitch BETA
-=========================
+This is a boilerplate for Web Components
+========================================
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
-
-**Glitch** is the friendly commmunity where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+This a forked project from Glitch, made by [Fog Creek](https://fogcreek.com/)
 
 Find out more [about Glitch](https://glitch.com/about).
-
 
 Your Project
 ------------
@@ -20,8 +17,11 @@ On the back-end,
 - add frameworks and packages in `package.json`
 - safely store app secrets in `.env` (nobody can see this but you and people you invite)
 
+How to use it
+------------
 
-Made by [Fog Creek](https://fogcreek.com/)
--------------------
+> npm install
+> node server.js
+
 
 \ ゜o゜)ノ
